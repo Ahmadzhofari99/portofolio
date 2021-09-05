@@ -394,6 +394,7 @@
 .max-height-modal{
   max-height: 470px;
   overflow-y: auto;
+  padding: 0 0 15px 15px;
 }
 
 
