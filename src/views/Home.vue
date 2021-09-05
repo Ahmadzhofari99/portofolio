@@ -326,7 +326,7 @@ export default {
           img: [
             '/img/Primavillage/landing.png',
           ],
-          desc: "<p>Mice ID adalah sebuah applikasi website yang digunakan untuk membuat event yang berisikan marketplace bagi para UMKM, dan applikasi yang digunakan untuk meeting, conventional dan knowledge.</p><p>Fitur - fitur Applikasi :<br>- Event<br>- Marketplace<br>- Meeting<br>- Knowledge<br>- Berita<br>- dll masih dalam tahap pengembangan</p>",
+          desc: "<p>Primavillage adalah sebuah website Profile desa yang memiliki applikasi Primavillage</p>",
           judul: 'Primavillage.id'
         },
         {
@@ -335,7 +335,7 @@ export default {
           img: [
             '/img/jurnal-dinsos/landing.png',
           ],
-          desc: "<p>Mice ID adalah sebuah applikasi website yang digunakan untuk membuat event yang berisikan marketplace bagi para UMKM, dan applikasi yang digunakan untuk meeting, conventional dan knowledge.</p><p>Fitur - fitur Applikasi :<br>- Event<br>- Marketplace<br>- Meeting<br>- Knowledge<br>- Berita<br>- dll masih dalam tahap pengembangan</p>",
+          desc: "<p>Jurnal Dinsos adalah applikasi website yang berguna untuk membantu pencatatan dan pelaporan seperti orang disabilitas, gangguan jiwa dll. Setiap ada yang melaporkan, pihak Dinas Sosial dapat mengetahui dan dapat langsung menangani orang tersebut</p>",
           judul: 'Dinas Sosial Jawa Timur'
         },
         {
@@ -344,7 +344,7 @@ export default {
           img: [
             '/img/pelindo/landing.png',
           ],
-          desc: "<p>Mice ID adalah sebuah applikasi website yang digunakan untuk membuat event yang berisikan marketplace bagi para UMKM, dan applikasi yang digunakan untuk meeting, conventional dan knowledge.</p><p>Fitur - fitur Applikasi :<br>- Event<br>- Marketplace<br>- Meeting<br>- Knowledge<br>- Berita<br>- dll masih dalam tahap pengembangan</p>",
+          desc: "<p>Pelindo adalah sebuah admin Dashboard untuk applikasi E - Report. di website ini ada beberapa macam modul seperti user management, Pelaporan dari setiap EOS, manage Jadwal dll</p>",
           judul: 'Pelindo E - Report'
         },
         {
@@ -353,7 +353,7 @@ export default {
           img: [
             '/img/bemkm/landing.png',
           ],
-          desc: "<p>Mice ID adalah sebuah applikasi website yang digunakan untuk membuat event yang berisikan marketplace bagi para UMKM, dan applikasi yang digunakan untuk meeting, conventional dan knowledge.</p><p>Fitur - fitur Applikasi :<br>- Event<br>- Marketplace<br>- Meeting<br>- Knowledge<br>- Berita<br>- dll masih dalam tahap pengembangan</p>",
+          desc: "<p>BEM KM Merupakan applikasi berbasis website yang diperuntukan untuk mahasiswa UPN Yogyakarta, di dalam aplikasi ini terdapat beberapa modul, seperti Presensi, Tugas, Streaming, Live Chat, dan Kegiatan di Universitas tersebut</p>",
           judul: 'BEM KM UPN Yogyakarta'
         },
       ],
