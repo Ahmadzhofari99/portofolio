@@ -104,7 +104,7 @@
                           </a>
                         </div>
                         <div class="col-sm-6 col-12 mb-3">
-                          <a href="wa.me/6285156179875" target="_blank" class="btn btn-dark w-100">
+                          <a href="https://wa.me/6285156179875" target="_blank" class="btn btn-dark w-100">
                             Contact Saya
                           </a>
                         </div>
