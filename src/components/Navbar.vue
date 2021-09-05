@@ -8,7 +8,7 @@
       </div>
       <div class="col-lg-10 col-6">
         <div class="d-flex justify-content-end">
-          <button class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#myModal">
+          <button @click="openmodal" class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#myModal">
             <i class="fa fa-bars"></i>
           </button>
           <div class="collapse navbar-collapse justify-content-sm-end justify-content-start" id="ee">
@@ -62,6 +62,11 @@
 
 <script>
 export default {
+  methods:{
+    openmodal() {
+      $('.modal-backdrop').addClass('d-none')
+    }
+  },
   mounted() {
     window.onscroll = () => {
       // if(window.scrollY > 150) {

@@ -254,11 +254,13 @@
                   <div class="card">
                     <div class="p-5">
                       <div class="border-bottom">
-                        <h4>SMP Negeri 12 Jakarta Selatan</h4>
-                        <p style="color: #7c838e">SMP 3 Tahun (2013 - 2016)</p>
+                        <h4>SMK Negeri 6 Jakarta Selatan </h4>
+                        <p style="color: #7c838e">Animasi (2016 - 2019)</p>
                       </div>
                       <div class="pt-4">
-                        <p class="mb-0" style="text-indent: 45px">Bersekolah di SMP Negeri 12 Jakarta Selatan pada tahun 2013 sampai tahun 2016</p>
+                        <p class="mb-0" style="text-indent: 45px">
+                          Bersekolah di SMK Negeri 6 Jakarta Selama 3 tahun di bidang Animasi
+                        </p>
                       </div>
                     </div>
                   </div>
@@ -271,13 +273,11 @@
                   <div class="card">
                     <div class="p-5">
                       <div class="border-bottom">
-                        <h4>SMK Negeri 6 Jakarta Selatan </h4>
-                        <p style="color: #7c838e">Animasi (2016 - 2019)</p>
+                        <h4>SMP Negeri 12 Jakarta Selatan</h4>
+                        <p style="color: #7c838e">SMP 3 Tahun (2013 - 2016)</p>
                       </div>
                       <div class="pt-4">
-                        <p class="mb-0" style="text-indent: 45px">
-                          Bersekolah di SMK Negeri 6 Jakarta Selama 3 tahun di bidang Animasi
-                        </p>
+                        <p class="mb-0" style="text-indent: 45px">Bersekolah di SMP Negeri 12 Jakarta Selatan pada tahun 2013 sampai tahun 2016</p>
                       </div>
                     </div>
                   </div>
