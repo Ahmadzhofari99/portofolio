@@ -99,7 +99,7 @@
                       </div>
                       <div class="row">
                         <div class="col-sm-6 col-12 mb-3">
-                          <a href="/CV-Bagus Nur Solayman.pdf" target="_blank" class="btn btn-dark w-100 ">
+                          <a href="/CV-BagusNurSolayman.pdf" target="_blank" class="btn btn-dark w-100 ">
                             Download CV
                           </a>
                         </div>
