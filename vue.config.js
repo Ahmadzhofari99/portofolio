@@ -22,12 +22,12 @@ module.exports = {
       gcm_sender_id: '522489256827',
       icons: [
         {
-          src: 'logo.ico',
+          src: 'logo.png',
           sizes: '192x192',
           type: 'image/png',
         },
         {
-          src: 'logo.ico',
+          src: 'logo.png',
           sizes: '512x512',
           type: 'image/png',
         },
