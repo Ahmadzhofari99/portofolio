@@ -20,7 +20,7 @@
                 <a class="nav-link" href="#portofolio">PORTOFOLIO</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#pendidikan">PENDIDIKAN</a>
+                <a class="nav-link" href="#education">EDUCATION</a>
               </li>
             </ul>
           </div>
@@ -50,7 +50,7 @@
                 <a class="nav-link" href="#portofolio">PORTOFOLIO</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#pendidikan">PENDIDIKAN</a>
+                <a class="nav-link" href="#education">EDUCATION</a>
               </li>
             </ul>
           </div>

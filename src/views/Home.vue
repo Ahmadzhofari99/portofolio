@@ -54,10 +54,13 @@
                         </div>
                       </div>
                       <div class="title mb-2">
-                        <h2>Hallo, I am <br> <span>Bagus Nur Solayman</span></h2>
+                        <h2>Hi, I’m <br> <span>Bagus Nur Solayman</span></h2>
                       </div>
                       <div class="text-desc mb-4">
-                        <p>Seorang junior web developer yang memiliki pengalaman dalam pengembangan web menggunakan teknologi terbaru seperti VueJs, VueX, NodeJs dan ExpressJs. Merupakan pribadi yang easy going, mampu bekerja sama dalam tim maupun individu. Website yang pernah dibuat seperti website Company Profile, Meeting, Incentive, Convention, and Exhibition (MICE) menggunakan VueJs, Vuex dan Laravel</p>
+                        <p>I am a Front End developer with experience in web development using
+                          modern technology like Vue.Js, React Js, Node Js and Express Js. Able
+                          work in Team and have good communication in Team, Fast Learner
+                          new think and love challanges.</p>
                       </div>
                       <div>
                         <div class="d-flex info">
@@ -95,7 +98,7 @@
                   <div class="card">
                     <div class="p-4">
                       <div class="mb-4">
-                        <h6>Download Curriculum Vitae saya :</h6>
+                        <h6>Download my Curriculum Vitae :</h6>
                       </div>
                       <div class="row">
                         <div class="col-sm-6 col-12 mb-3">
@@ -105,7 +108,7 @@
                         </div>
                         <div class="col-sm-6 col-12 mb-3">
                           <a href="https://wa.me/6285156179875" target="_blank" class="btn btn-dark w-100">
-                            Contact Saya
+                            My Contact
                           </a>
                         </div>
                       </div>
@@ -126,24 +129,26 @@
       </div>
       <div class="myProfile" id="portofolio">
         <div class="subhead mb-5">
-          <p>BEBERAPA PORTOFOLIO SAYA</p>
-          <h1>Portofolio Saya</h1>
+          <p>VISIT MY PORTOFOLIO</p>
+          <h1>My Portofolio</h1>
         </div>
-        <div class="px-2 px-sm-5">
-          <div class="row main-carousel" id="main-carousel">
-            <div class="card-porto carousel-cell" v-for="(items, index) in dataCard" :key="index">
-              <div class="card" @click="openPortofolio(index)">
-                <div class="p-3">
-                  <div class="card-img">
-                    <img :src="items.img[0]" alt="">
-                  </div>
-                  <div class="content-body">
-                    <div class="d-flex justify-content-between mb-2">
-                      <p class="text-info-framework">{{items.bahasa}}</p>
+        <div class="px-2 px-sm-4">
+          <div class="row " id="">
+            <div class="col-lg-4 mb-5" v-for="(items, index) in dataCard" :key="index">
+              <div class="card-porto ">
+                <div class="card" style="border-radius: 20px" @click="openPortofolio(index)">
+                  <div class="px-4 py-4">
+                    <div class="card-img">
+                      <img :src="items.img[0]" alt="">
                     </div>
-                    <h4>
-                      {{items.judul}}
-                    </h4>
+                    <div class="content-body">
+                      <div class="d-flex justify-content-between mb-2">
+                        <p class="text-info-framework">{{items.bahasa}}</p>
+                      </div>
+                      <h4>
+                        {{items.judul}}
+                      </h4>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -226,12 +231,12 @@
           </div>
         </div>
       </div>
-      <div class="myProfile" id="pendidikan">
+      <div class="myProfile" id="education">
         <div class="subhead mb-5">
-          <p>PERJALANAN PENDIDIKAN SAYA</p>
-          <h1>Riwayat Pendidikan</h1>
+          <p>MY EDUCATION</p>
+          <h1>Education</h1>
         </div>
-        <div class="px-2 px-sm-5">
+        <div class="px-2 px-sm-4">
           <div class="row">
             <div class="col-lg-6">
               <div class="pendidikan-list">
@@ -381,13 +386,13 @@ export default {
     }
   },
   mounted() {
-    var flkty = new Flickity( '#main-carousel', {
-      // options
-      pageDots: false,
-      cellAlign: 'left',
-      autoPlay: 5000,
-      margin: 20
-    });
+    // var flkty = new Flickity( '#main-carousel', {
+    //   // options
+    //   pageDots: false,
+    //   cellAlign: 'left',
+    //   autoPlay: 5000,
+    //   margin: 20
+    // });
     
   }
 };

@@ -107,8 +107,14 @@
 #navbar{
   transition: var(--transition);
 }
-.card-porto.carousel-cell{
-  width: 422px;
+.card-porto{
+  transition: .4s all;
+}
+.card-porto:hover .card{
+  background: #171a20;
+}
+.card-porto:hover img{
+  transform: scale(1.1);
 }
 .navscroll{
   box-shadow: var(--shadow-1);
@@ -183,9 +189,14 @@
   background-color: var(--background-color-2);
 }
 .card{
-  background-color: var(--background-color-2);
+  background: var(--background-color-2);
   box-shadow: var(--shadow-1);
+  transition: .4s all;
   border: none;
+  -webkit-transition: background-color 1s ease-out;
+  -moz-transition: background-color 1s ease-out;
+  -o-transition: background-color 1s ease-out;
+  transition: background-color 1s ease-out;
 }
 .myProfile{
   padding-top: 100px;
