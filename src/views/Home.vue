@@ -4,7 +4,7 @@
     <div class="home">
       <div class="modalku" id="modalku" v-if="dataOne">
         <div class="card h-100">
-          <div class="p-5 h-100">
+          <div class="p-1 p-sm-5 h-100" style="overflow-y: auto">
             <div class="position-relative">
               <div class="close" @click="closed">
                 <i class="fa fa-times"></i>

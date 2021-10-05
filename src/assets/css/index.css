@@ -409,5 +409,8 @@
     background: rgb(243, 243, 243);
     width: 100%;
   }
+  .max-height-modal{
+    max-height: none !important;
+  }
   
 }
