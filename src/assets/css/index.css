@@ -376,7 +376,7 @@
 .close{
   position: absolute;
   background-color: var(--background-color-2);
-  right: -20px;
+  right: 10px;
   cursor: pointer;
   width: 45px;
   height: 45px;

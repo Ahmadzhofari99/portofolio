@@ -4,7 +4,7 @@
     <div class="home">
       <div class="modalku" id="modalku" v-if="dataOne">
         <div class="card h-100">
-          <div class="p-1 p-sm-5 h-100" style="overflow-y: auto">
+          <div class="py-5 px-3 p-sm-5 h-100" style="overflow-y: auto">
             <div class="position-relative">
               <div class="close" @click="closed">
                 <i class="fa fa-times"></i>
@@ -54,7 +54,7 @@
                         </div>
                       </div>
                       <div class="title mb-2">
-                        <h2>Hallo, Saya <br> <span>Bagus Nur Solayman</span></h2>
+                        <h2>Hallo, I am <br> <span>Bagus Nur Solayman</span></h2>
                       </div>
                       <div class="text-desc mb-4">
                         <p>Seorang junior web developer yang memiliki pengalaman dalam pengembangan web menggunakan teknologi terbaru seperti VueJs, VueX, NodeJs dan ExpressJs. Merupakan pribadi yang easy going, mampu bekerja sama dalam tim maupun individu. Website yang pernah dibuat seperti website Company Profile, Meeting, Incentive, Convention, and Exhibition (MICE) menggunakan VueJs, Vuex dan Laravel</p>
