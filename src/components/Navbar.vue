@@ -67,6 +67,7 @@ export default {
       $('.modal-backdrop').addClass('d-none')
     },
     tagmanager() {
+      console.log('abc');
       dataLayer.push({ _event: 'Any Custom Events', event: 'cstm_CompleteRegistration', event_name: 'complete_registration'})
     }
   },
