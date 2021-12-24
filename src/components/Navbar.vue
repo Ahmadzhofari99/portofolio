@@ -16,7 +16,7 @@
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#home">HOME</a>
               </li>
-              <li class="nav-item">
+              <li class="nav-item" @click="tagmanager">
                 <a class="nav-link" href="#portofolio">PORTOFOLIO</a>
               </li>
               <li class="nav-item">
@@ -65,6 +65,9 @@ export default {
   methods:{
     openmodal() {
       $('.modal-backdrop').addClass('d-none')
+    },
+    tagmanager() {
+      dataLayer.push({ _event: 'Any Custom Events', event: 'cstm_CompleteRegistration', event_name: 'complete_registration'})
     }
   },
   mounted() {
