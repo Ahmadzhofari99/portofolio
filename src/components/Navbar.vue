@@ -68,7 +68,7 @@ export default {
     },
     tagmanager() {
       console.log('abc');
-      dataLayer.push({ _event: 'Any Custom Events', event: 'cstm_CompleteRegistration', event_name: 'complete_registration', 'varvalue': 'asede'})
+      dataLayer.push({ _event: 'Any Custom Events', event: 'cstm_CompleteRegistration', event_name: 'complete_registration', varvalue: 'asede'})
     }
   },
   mounted() {
