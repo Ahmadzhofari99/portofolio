@@ -30,9 +30,6 @@
                     <div class="isi-modal-content">
                       <p v-html="dataOne.desc"></p>
                     </div>
-                    <div class="d-flex">
-                      <a :href="dataOne.url" target="_blank" class="btn btn-dark">Kunjungi Website</a>
-                    </div>
                   </div>
                 </div>
               </div>
