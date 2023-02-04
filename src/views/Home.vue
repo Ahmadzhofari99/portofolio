@@ -54,7 +54,7 @@
                         </div>
                       </div>
                       <div class="title mb-2">
-                        <h2>Hi, I’m <br> <span>Bagus Nur Solayman</span></h2>
+                        <h2>Hi, I’m <br> <span>Ahmad Zhofari</span></h2>
                       </div>
                       <div class="text-desc mb-4">
                         <p>I am a Front End developer with experience in web development using
