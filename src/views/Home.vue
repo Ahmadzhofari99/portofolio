@@ -55,7 +55,7 @@
                       </div>
                       <div class="text-desc mb-4">
                         <p>
-                          I am a 4th-semester student of Educational Technology at Yogyakarta State University. I have a strong passion for Design and videography and am ambitious to pursue my goals as an Instructor and designer. However, I faced financial constraints in completing my education. Therefore, I hope to receive a scholarship from KarirLab to help pay for my tuition and achieve my academic goals. I am sure that I can make good use of this opportunity and make a positive contribution to society after completing my education
+                          Halo, Perkenalkan nama saya Ahmad Zhofari, dan saya adalah Mahasiswa semester 4 prodi Teknologi Pendidikan di UNY. Saya memiliki passion yang besar dalam Teknologi dan sudah 2 tahun menekuni hal ini. Saya memiliki keahlian dan pengalaman dalam Desain Grafis, Videography dan Photography. Saya terus belajar dan mencari tantangan baru untuk meningkatkan keterampilan dan pengetahuan saya. Portofolio ini menampilkan beberapa proyek dan prestasi terbaik saya dalam Teknologi. Terima kasih sudah meluangkan waktu untuk melihat portofolio saya
                         </p>
                       </div>
                       <div>
