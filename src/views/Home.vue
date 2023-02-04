@@ -243,12 +243,12 @@
                   <div class="card">
                     <div class="p-5">
                       <div class="border-bottom">
-                        <h4>Arkademy Tech Education Platform </h4>
-                        <p style="color: #7c838e">Fullstack Developer (Februari 2020 - Juni 2020)</p>
+                        <h4>Yogyakarta State University </h4>
+                        <p style="color: #7c838e">Educational Technology (2021-Now)</p>
                       </div>
                       <div class="pt-4">
                         <p class="mb-0" style="text-indent: 45px">
-                          Bersekolah di Arkademy Tech Education selama 5 bulan sebagai Fullstack Website Developer
+                          currently I have taken semester 4 with a GPA of 3.67
                         </p>
                       </div>
                     </div>
@@ -258,12 +258,12 @@
                   <div class="card">
                     <div class="p-5">
                       <div class="border-bottom">
-                        <h4>SMK Negeri 6 Jakarta Selatan </h4>
-                        <p style="color: #7c838e">Animasi (2016 - 2019)</p>
+                        <h4>Stabat 1 STATE Senior High school </h4>
+                        <p style="color: #7c838e">Natural Science (2018 - 2021)</p>
                       </div>
                       <div class="pt-4">
                         <p class="mb-0" style="text-indent: 45px">
-                          Bersekolah di SMK Negeri 6 Jakarta Selama 3 tahun di bidang Animasi
+                          Attended school for 3 years and has achievements as a school representative at art festivals at the provincial level for 2 consecutive years
                         </p>
                       </div>
                     </div>
@@ -277,24 +277,11 @@
                   <div class="card">
                     <div class="p-5">
                       <div class="border-bottom">
-                        <h4>SMP Negeri 12 Jakarta Selatan</h4>
-                        <p style="color: #7c838e">SMP 3 Tahun (2013 - 2016)</p>
+                        <h4>MTSN 1 Langkat</h4>
+                        <p style="color: #7c838e">attended school for 3 years (2015 - 2018)</p>
                       </div>
                       <div class="pt-4">
-                        <p class="mb-0" style="text-indent: 45px">Bersekolah di SMP Negeri 12 Jakarta Selatan pada tahun 2013 sampai tahun 2016</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="pendidikanku">
-                  <div class="card">
-                    <div class="p-5">
-                      <div class="border-bottom">
-                        <h4>SD Negeri 06 Mexico Jakarta Selatan</h4>
-                        <p style="color: #7c838e">SD 6 Tahun (2007 - 2013)</p>
-                      </div>
-                      <div class="pt-4">
-                        <p class="mb-0" style="text-indent: 45px">Bersekolah di SDN 6 Jakarta Selatan pada tahun 2007 sampai tahun 2013</p>
+                        <p class="mb-0" style="text-indent: 45px"></p>
                       </div>
                     </div>
                   </div>
@@ -314,52 +301,35 @@ export default {
     return{
       dataCard: [
         {
-          bahasa: 'VUE.JS',
-          url: 'https://event.mice.id',
+          bahasa: 'Ispring Suite',
+          url: '',
           img: [
-            '/img/event.mice.id/landing.png',
-            '/img/event.mice.id/event.png',
-            '/img/event.mice.id/login.png'
+            '/img/narkoba/narkoba1.png',
+            '/img/narkoba/narkoba2.png',
+            '/img/narkoba/narkoba3.png',
+            '/img/narkoba/narkoba4.png',
+            '/img/narkoba/narkoba5.png',
+            '/img/narkoba/narkoba6.png',
+            '/img/narkoba/narkoba7.png',
           ],
-          desc: "<p>Mice ID adalah sebuah applikasi website yang digunakan untuk membuat event yang berisikan marketplace bagi para UMKM, dan applikasi yang digunakan untuk meeting, conventional dan knowledge.</p><p>Fitur - fitur Applikasi :<br>- Event<br>- Marketplace<br>- Meeting<br>- Knowledge<br>- Berita<br>- dll masih dalam tahap pengembangan</p>",
-          judul: 'Platform MICE Indonesia (Meeting, Incentive, Convention, Exhibition)'
+          desc: "<p>The android application Get to Know Drugs is made to make distance learning fun and not monotonous. It is hoped that this application can help make learning more varied and interactive.</p>",
+          judul: 'Mengenal Narkoba'
         },
         {
-          bahasa: 'VUE.JS',
-          url: 'https://primavillage.id',
+          bahasa: 'Ispring Suite',
+          url: '',
           img: [
-            '/img/Primavillage/landing.png',
+            '/img/ekosistem/ekosistem1.png',
+            '/img/ekosistem/ekosistem2.png',
+            '/img/ekosistem/ekosistem3.png',
+            '/img/ekosistem/ekosistem4.png',
+            '/img/ekosistem/ekosistem5.png',
+            '/img/ekosistem/ekosistem6.png',
+            '/img/ekosistem/ekosistem7.png',
           ],
-          desc: "<p>Primavillage adalah sebuah website Profile desa yang memiliki applikasi Primavillage</p>",
-          judul: 'Primavillage.id'
-        },
-        {
-          bahasa: 'LARAVEL',
-          url: 'https://jurnal-dinsos.primakom.co.id',
-          img: [
-            '/img/jurnal-dinsos/landing.png',
-          ],
-          desc: "<p>Jurnal Dinsos adalah applikasi website yang berguna untuk membantu pencatatan dan pelaporan seperti orang disabilitas, gangguan jiwa dll. Setiap ada yang melaporkan, pihak Dinas Sosial dapat mengetahui dan dapat langsung menangani orang tersebut</p>",
-          judul: 'Dinas Sosial Jawa Timur'
-        },
-        {
-          bahasa: 'VUE.JS',
-          url: 'https://pelindo.primakom.co.id',
-          img: [
-            '/img/pelindo/landing.png',
-          ],
-          desc: "<p>Pelindo adalah sebuah admin Dashboard untuk applikasi E - Report. di website ini ada beberapa macam modul seperti user management, Pelaporan dari setiap EOS, manage Jadwal dll</p>",
-          judul: 'Pelindo E - Report'
-        },
-        {
-          bahasa: 'VUE.JS',
-          url: 'http://bemkm.smartmanagement.id/',
-          img: [
-            '/img/bemkm/landing.png',
-          ],
-          desc: "<p>BEM KM Merupakan applikasi berbasis website yang diperuntukan untuk mahasiswa UPN Yogyakarta, di dalam aplikasi ini terdapat beberapa modul, seperti Presensi, Tugas, Streaming, Live Chat, dan Kegiatan di Universitas tersebut</p>",
-          judul: 'BEM KM UPN Yogyakarta'
-        },
+          desc: "<p>This 'ecosystem' android application was created for grade 5 elementary school students, in order to create a fun and not monotonous implementation of distance learning. It is hoped that this application can help make learning more varied and interactive.</p>",
+          judul: 'Aplication Ecosystem'
+        }
       ],
       dataOne: null
     }
